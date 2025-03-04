@@ -1,7 +1,8 @@
 # Projeto de Exercícios e Desafios em Python
 
 Este projeto é uma coleção de exercícios e desafios em Python, organizados em diferentes categorias, como aritmética, estruturas de seleção, estruturas de repetição, matrizes e pequenos desafios. O objetivo é fornecer uma plataforma para praticar conceitos básicos e avançados de programação em Python.
-UFRA - Universidade Federal Rural da Amazônia
+
+- UFRA - Universidade Federal Rural da Amazônia - Licenciatura em Computação
 ---
 
 ## **Estrutura do Projeto**
@@ -68,17 +69,17 @@ O projeto inclui as seguintes funcionalidades:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/quietbytesilence/exer_fabio.git
    ```
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd nome-do-repositorio
+   cd exer_fabio
    ```
 
 3. Execute o programa principal:
    ```bash
-   python main.py
+   python Menu.py
    ```
 
 4. Siga as instruções no menu interativo para selecionar e executar os exercícios.
@@ -88,7 +89,7 @@ O projeto inclui as seguintes funcionalidades:
 ## **Exemplos de Uso**
 
 ### **Menu Principal**
-Ao executar `main.py`, você verá um menu como este:
+Ao executar `Menu.py`, você verá um menu como este:
 
 ```
 EXERCÍCIOS
