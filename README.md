@@ -5,6 +5,8 @@ Este projeto é uma coleção de exercícios e desafios em Python, organizados e
 - UFRA - Universidade Federal Rural da Amazônia - Licenciatura em Computação
 ---
 
+## **Mais informações na Wiki do Projeto**
+
 ## **Estrutura do Projeto**
 
 O projeto está organizado em módulos Python, cada um responsável por uma categoria de exercícios. Abaixo está a estrutura do projeto:
