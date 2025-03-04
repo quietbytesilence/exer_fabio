@@ -129,11 +129,6 @@ Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 
 ---
 
-## **Licença**
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
 ## **Autor**
 - **Gustavo Carneiro**  
 - GitHub: [Quiet Byte](https://github.com/quietbytesilence)  
